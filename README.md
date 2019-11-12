@@ -20,3 +20,7 @@ The app is only UI of the dashboard.
 
 The App is kind like ERP application for schools and colleges.
 
+https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%201.jpg
+
+The home page of the dashboard application in flutter.
+

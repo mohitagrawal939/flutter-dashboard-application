@@ -1,4 +1,4 @@
-# flutter_app
+# Flutter Dashboard application with Profile View Drawer, Alert Notifications, Card View and Calendar View
 
 A new Flutter application.
 

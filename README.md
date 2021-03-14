@@ -8,7 +8,7 @@ The app is only UI of the dashboard.
 
 The App is kind like ERP application for schools and colleges.
 
-<img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%201.jpg" width="100" height="100">
-<img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%202.jpg" width="100" height="100">
+<img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%201.jpg" width="100">
+<img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%202.jpg" width="100">
 <img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%203.jpg" width="100" height="100">
 <img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%204.jpg" width="100" height="100">

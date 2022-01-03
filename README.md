@@ -1,8 +1,8 @@
 # Flutter Dashboard application with Profile View Drawer, Alert Notifications, Card View and Calendar View
 
-Flutter Dashboard applicatipon
+Flutter Dashboard application
 
-Appliction created on windows 10 64 bit And android studio is used for creating app with flutter and dart plugin.
+Application created on windows 10 64 bit & android studio is used for creating app with flutter and dart plugin.
 
 The app is only UI of the dashboard.
 
